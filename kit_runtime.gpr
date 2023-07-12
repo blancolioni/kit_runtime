@@ -1,5 +1,4 @@
 with "config/kit_runtime_config.gpr";
-with "../kit_base/kit_base.gpr";
 
 project Kit_Runtime is
 
