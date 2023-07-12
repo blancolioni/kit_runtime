@@ -1,0 +1,9 @@
+name = "kit_runtime"
+description = "Runtime library for Kit"
+version = "0.1.0-dev"
+
+authors = ["Fraser Wilson"]
+maintainers = ["Fraser Wilson <fraser@thewhitelion.eu>"]
+maintainers-logins = ["blancolioni"]
+[[depends-on]]
+marlowe = "~0.1.0-dev"
