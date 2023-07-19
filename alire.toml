@@ -8,7 +8,7 @@ maintainers = ["Fraser Wilson <fraser@thewhitelion.eu>"]
 maintainers-logins = ["blancolioni"]
 
 tags = ["utility", "database", "compiler"]
-website = "https://github.com/blancolioni/kit_builder"
+website = "https://github.com/blancolioni/kit_runtime"
 
 [[depends-on]]
 marlowe = "~0.1.0-dev"
